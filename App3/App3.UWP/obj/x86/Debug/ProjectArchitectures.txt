@@ -1,0 +1,1 @@
+C:\Users\USER\source\repos\WeatherAppFinal\App3\App3.UWP\App3.UWP.csproj;x86
